@@ -1,0 +1,134 @@
+.board {
+    border: 3px solid black;
+    height: 628px;
+    width: 628px;  
+    border-collapse: collapse;  
+}
+
+.square {
+    display: inline-block;
+    margin: 0px;
+}
+
+.first {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+}
+
+.second {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+.third {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+
+.fourth {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+}
+
+.fifth {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+}
+
+.sixth {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+.seventh {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+.eighth {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+}
+
+.circle {
+    background-color: white;
+    border-radius: 50%;
+    width: 60%;
+    height: 60%;   
+}
+
+.one {
+    margin-left: 15px;
+    margin-top: 12px;
+}
+
+.ninth {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+    margin: 0px;
+}
+
+.tenth {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+.eleventh {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+.twelfth {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+}
+
+.thirteenth {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+}
+
+
+.fourteenth {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+.fifteenth {
+    background-color: grey;
+    height: 75px;
+    width: 75px;
+}
+
+.sixteenth {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+}
+
+.figure {
+    background-color: red;
+    border-radius: 50%;
+    width: 60%;
+    height: 60%;   
+}
+
+.two {
+    margin-left: 15px;
+    margin-top: 12px;
+}
